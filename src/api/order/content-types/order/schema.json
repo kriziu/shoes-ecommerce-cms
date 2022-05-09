@@ -49,7 +49,7 @@
     "paid": {
       "type": "boolean"
     },
-    "sizes": {
+    "variants": {
       "type": "json",
       "required": true
     }
