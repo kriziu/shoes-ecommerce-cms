@@ -13,6 +13,7 @@
     "@strapi/plugin-graphql": "^4.1.9",
     "@strapi/plugin-i18n": "4.1.9",
     "@strapi/plugin-users-permissions": "4.1.9",
+    "@strapi/provider-email-nodemailer": "^4.1.9",
     "@strapi/strapi": "4.1.9",
     "better-sqlite3": "7.4.6",
     "pg": "^8.7.3",

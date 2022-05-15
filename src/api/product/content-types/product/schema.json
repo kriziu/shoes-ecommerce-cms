@@ -73,16 +73,17 @@
       "required": true,
       "unique": true
     },
-    "reviews": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::review.review"
-    },
     "productVariants": {
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::product-variant.product-variant",
       "inversedBy": "products"
+    },
+    "reviews": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::review.review",
+      "mappedBy": "product"
     }
   }
 }
