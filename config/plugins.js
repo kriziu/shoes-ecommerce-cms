@@ -3,8 +3,7 @@ module.exports = ({ env }) => ({
     config: {
       provider: "nodemailer",
       providerOptions: {
-        host: "smtp.ethereal.email",
-        port: 587,
+        service: "gmail",
         auth: {
           user: env("EMAIL_USER"),
           pass: env("EMAIL_PASSWORD"),
