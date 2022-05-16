@@ -52,6 +52,8 @@ To run this project, you will need to add the following environment variables to
 
 `CLOUDINARY_SECRET`
 ## Installation
+It is configured to work with heroku using this guide: https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html
+
 &nbsp;0. Make .env file with variables like in upper section.
 
 &nbsp;1. Clone this repository and install like normal strapi application.
