@@ -62,7 +62,7 @@ To run this project, you will need to add the following environment variables to
 
 &nbsp;4. Give permissions to Public role:
 ![permission-screenshot](https://i.imgur.com/ibZcAIR.png)
-![permission-screenshot](https://i.imgur.com/OWwkhZT.png)
+![permission-screenshot](https://i.imgur.com/KDUfbgz.png)
 
 &nbsp;5. Give same persissions to Authenticated role as Public role extending:
 ![permission-screenshot](https://i.imgur.com/F62i40H.png)
