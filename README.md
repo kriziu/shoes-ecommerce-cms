@@ -58,15 +58,16 @@ To run this project, you will need to add the following environment variables to
 
 &nbsp;2. Create new role - server and give it all permissions.
 
-&nbsp;3. Give permissions to Public role:
+&nbsp;3. Create new user and give it server role, this will be server user to use in Next.JS.
+
+&nbsp;4. Give permissions to Public role:
 ![permission-screenshot](https://i.imgur.com/ibZcAIR.png)
 ![permission-screenshot](https://i.imgur.com/OWwkhZT.png)
 
-
-&nbsp;4. Give same persissions to Authenticated role as Public role extending:
+&nbsp;5. Give same persissions to Authenticated role as Public role extending:
 ![permission-screenshot](https://i.imgur.com/F62i40H.png)
 
-&nbsp;5. In settings enable email confirmation and paste link to redirect with your Next.JS url:
+&nbsp;6. In settings enable email confirmation and paste link to redirect with your Next.JS url:
 ![settings-screenshot](https://i.imgur.com/3rlldtZ.png)
 
-&nbsp;6. Create some products and go to installation this repository: https://github.com/kriziu/shoes-ecommerce
+&nbsp;7. Create some products and go to installation this repository: https://github.com/kriziu/shoes-ecommerce
